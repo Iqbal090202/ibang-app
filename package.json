@@ -10,7 +10,9 @@
     "mysql2": "^2.3.3"
   },
   "scripts": {
-    "start": "node index.js",
-    "build": "webpack"
+    "start": "node index.js"
+  },
+  "engines": {
+    "yarn": "1.x"
   }
 }
