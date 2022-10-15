@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api users",
+  "main": "index.js",
+  "author": "ibang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3"
+  }
+}
