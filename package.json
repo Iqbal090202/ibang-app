@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "ibang-app",
   "version": "1.0.0",
   "description": "api users",
   "main": "index.js",
@@ -8,5 +8,9 @@
   "dependencies": {
     "express": "^4.18.2",
     "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack"
   }
 }
